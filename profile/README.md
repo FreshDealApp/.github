@@ -1,4 +1,9 @@
-## Hi there 👋
+FreshDeal is a cross-platform mobile and web application that 
+connects businesses with surplus food to consumers seeking affordable meals, while 
+promoting food waste reduction through user engagement, business accountability, and 
+transparent practices. The app will be available on Android, iOS, and a web-based platform, 
+with a focus on mobile usability, providing tools for businesses to list surplus food and for 
+consumers to access deals seamlessly.
 
 <!--
 
